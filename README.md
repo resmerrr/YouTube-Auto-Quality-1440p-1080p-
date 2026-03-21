@@ -19,7 +19,6 @@ to 1440p when available, falling back to 1080p.
 - Handles YouTube SPA navigation
 - Retries automatically if player isn't ready
 - Verifies the quality change applied
-- Skips YouTube Shorts
 - Lightweight and open source
 
 ## License
