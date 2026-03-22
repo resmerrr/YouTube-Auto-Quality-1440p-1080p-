@@ -14,7 +14,7 @@ to 1440p when available, falling back to 1080p.
 
 ## Features
 
-- Prefers 1440p, falls back to 1080p
+- Prefers 1440p, falls back to 1080p, then 720p
 - Handles YouTube SPA navigation
 - Retries automatically if player isn't ready
 - Verifies the quality change applied
