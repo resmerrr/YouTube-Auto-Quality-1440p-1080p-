@@ -6,7 +6,6 @@ to 1440p when available, falling back to 1080p.
 ## Installation
 
 1. Install [Violentmonkey ](https://violentmonkey.github.io/) 
-   ()
 2. Click the link below to install the script:
 
    [⬇️ Install Script](../../raw/main/youtube-auto-quality.user.js)
