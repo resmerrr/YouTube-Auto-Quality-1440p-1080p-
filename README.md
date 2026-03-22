@@ -1,7 +1,7 @@
-# YouTube Auto Quality (1440p / 1080p)
+# YouTube Auto Quality (1440p / 1080p / 720p)
 
 A userscript that automatically sets YouTube video playback quality 
-to 1440p when available, falling back to 1080p.
+to 1440p when available, falling back to 1080p, then 720p.
 
 ## Installation
 
